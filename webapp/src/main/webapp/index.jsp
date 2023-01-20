@@ -1,4 +1,4 @@
-<h1>This is beach</h1>
+<h1>Hi, Hello everyone</h1>
 
 <!--
 <img src="beach.jpg">

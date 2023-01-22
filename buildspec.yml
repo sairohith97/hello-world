@@ -3,8 +3,8 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      java:      
-      penjdk11
+      java: openjdk11      
+
     commands:
       - echo Nothing to do in the install phase...
   pre_build:

@@ -4,7 +4,7 @@
 <img src="beach.jpg">
 
 
-<h1>End of page</h1>
+<h1>End of pagiiiiiiiiiiiiiiie</h1>
 
 
 
